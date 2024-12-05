@@ -1,0 +1,14 @@
+.form1{
+    width: auto;
+    color: azure;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../Img/Bg.jpg);
+    background-size: auto 1000px;
+    background-repeat: no-repeat;
+}
+.bg2{
+    border-radius: 10px;
+}
